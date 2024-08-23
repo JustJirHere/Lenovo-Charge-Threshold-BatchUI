@@ -7,3 +7,5 @@ This is only accesible from lenovo vantage (normal or commercial) or the ChargeT
 
 If you don't like vantage like me, you'll probably go to the EXE to use it, but the EXE only accepts console commands.
 All this file does is humanize those console commands so they're nicer, faster and more understandable to use.
+
+Made with hate towards vantage <3
