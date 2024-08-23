@@ -1,4 +1,4 @@
-# Lenovo-Charge-Threshold-UI
+# Lenovo-Charge-Threshold-BatchUI
 Lenovo thinkpads chargethreshold.exe small UI
 
 Lenovo thinkpads have a charge threshold utility which allow them to cut charge at a certain percentage to protect them from overcharge.
